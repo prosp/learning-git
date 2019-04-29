@@ -1,2 +1,5 @@
 # learning-git
-Some repository that I use for learning Git
+Hello, world!
+
+I am a woodpecker from space! 
+I like PHP and Javascript. 
